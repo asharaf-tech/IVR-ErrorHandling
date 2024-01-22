@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HTTPCodes>
+	<e1>200,OK</e1>
+	<e2>201,Created</e2>
+	<e3>202,Accepted (Request accepted and queued for execution)</e3>
+	<e4>400,Bad request</e4>
+	<e5>401,Authentication failure</e5>
+</HTTPCodes>

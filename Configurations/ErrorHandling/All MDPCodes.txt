@@ -1,0 +1,144 @@
+00
+Successful transaction
+01
+Call issuer
+03
+Invalid Merchant ID
+04
+Invalid card, capture
+05
+Do not honor transaction
+08
+Approve with identification
+12
+Transaction needs to be entered again
+12
+Invalid transaction – retry
+13
+Cannot process amount. This code is only for truly erroneous amounts, i.e, exceeds machine capabilities or $0 cash withdrawal. No limits involved.
+14
+Invalid account – retry
+14
+Forced post: No card on file
+15
+The card is already active
+30
+The message received was not within standards
+31
+Issuer inoperative
+31
+SmartVista not permitted to stand in
+33
+Card expired, capture card
+36
+Account restricted, capture card
+37
+Call Security – Capture
+41
+Lost Card – Capture
+43
+Stolen Card – Capture
+51
+Insufficient funds – retry
+55
+Incorrect PIN, foreign.
+57
+Not permitted
+57
+Transaction not permitted by law
+57
+Account restricted
+61
+Negative auth usage cycle limit exceeded
+61
+Card’s ATM or EPAY cycle limit exceeded
+61
+Account’s ATM or EPAY cycle limit exceeded
+62
+Bad card (on_us)
+65
+Limit reached for total number of txns in cycle, independent of transaction category.
+68
+Timer time out (used generally for issuers other than networks, i.e. a hos t)
+75
+Excessive pin failures
+76
+Wrong Pin, Excessive pin failures
+77
+The card has NOT ANY accounts
+78
+Original transaction could not be found
+90
+Response status unknown
+91
+Service not available
+92
+Invalid Payment Parameter
+93
+Service blocked
+94
+Duplicate transmission
+95
+This can mean several things i.e. did not receive a tx amount being reversed greater than orig.
+96
+Error (usually in pinblock translation)
+96
+Cannot process transaction
+96
+Forced post: no account on file
+96
+System Malfunction
+97
+Service not allowed for client
+98
+Invalid insurance number
+A1
+Service is already binded
+A2
+Service is not binded
+A3
+Invalid service data
+A4
+MAC error
+A5
+Debts absence.
+A6
+Invalid payment data
+A7
+Additional information required
+A8
+No such object in system
+A9
+Object is not created in system
+AA
+Object is already created in system
+AB
+Invalid CVV2
+AC
+Invalid Password
+AD
+Card is restricted
+AE
+Postcheck timeout
+AF
+Advice is rejected
+AG
+Payment execution delayed
+AH
+Incorrect customer_id or cardholder_id
+AI
+Biometric authentication failed - fingerprint does not exist
+AK
+Biometric authentication failed - invalid finger template type
+AL
+OTP code was not found or is invalid
+AM
+OTP code was already used
+AN
+OTP code has expired
+R0
+Stop a specific payment ( used for VISA Preauthorized Payment Cancellation Service – PPCS)
+R1
+Revoke authorization for further payments ( used for VISA Preauthorized Payment Cancellation Service – PPCS)
+R3
+Cancel all recurring payments for the card number in the request ( used for VISA Preauthorized Payment Cancellation Service – PPCS)

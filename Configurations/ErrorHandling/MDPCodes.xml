@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MDPCodes>
+	<00>Successful transaction</00>
+	<01>Call issuer</01>
+	<03>Invalid Merchant ID</03>
+	<04>Invalid card, capture</04>
+	<05>Do not honor transaction</05>
+	<08>Approve with identification</08>
+</MDPCodes>
